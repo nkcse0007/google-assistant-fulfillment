@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "botpenguin-bot1",
+  "private_key_id": "f1770230a046762a5091d7d854039634e2ec54e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDNU38z4Mte0wsK\na/yhfZQt3x5Pc0faITgs+nwkiWnmpBawsupnUzh/GEXxSBy8qJPHaW2M6szqo/mh\n12XX6YD6p9pOx6B7jVmXLXi974IqSFdC1Yppgbz+/GPIGX9j6e8h5vcOgpBeNkME\nQC2N31DWTkKoOd8ZLDsoctecbJHkL3mWc2lfAOZ4IPYt8sGD0L1x0nDvXBng1llW\nuRnGqcRlQDXsfhFT/HRxqKtq/MqJc9dYckHLfObUze2Bb7pDaBz8EswAyZa9sFnZ\nHScjTBj1zpQ2nbg3VlpwynQyL6Blwvd7oPMJT+sGx+VjAyahKOpiTiTbhxP0PPC0\n9b8m4WDdAgMBAAECggEAMS14OEP1WckY6h5apBA4mzMHJrbhBQLzWjyFWtfpvDLd\nd2Vm5KgHTlORPvzLWzlSKc8bzMZZHbL4AZYeX7Qe7wogbMF989GzXVToCC/zIG7y\nrYCJVgNbscPgH0dSHmtjmd5gmoJVkycSbpRzhLkxup6EcxfnUjdolOPKtf3ABKOX\nRKj/LKgGY4a5VgejR9b52gVkGdyWCO6odbaRVftCdyut7CZZfVkriUZPoPe+Jh98\ns+Di57GJdp1KepjtsOGSKHtWT6nixhU7sNIM/V2Z9KWFE2ZKdlC8tcnOPGLN2Jaz\n5KWtvG1DjjmlQN7t9QkV2nrkVz5M0rdQEbDN2cwzmQKBgQD0Dp2nH+WIGB3E7Yh2\n8YYVelOuieyKkOaplV96gs3KJuQst2ZK4GR5Ad4JrACAQXFpOHny9uxPIGMmZBLG\n6vsaImgXUVetzghYli2+XQ0SEAN2owTG1mgDlhTsSLpjFMEVzwX1vkiPvdo3NUeO\nlDbLqd9FJQOTWEKtLE6+KmEsaQKBgQDXX6+Qx0r5ZXhY14gguP9Ck8HFgMmEujL+\n+Yv3sTfs0G3/ufeGlwn23vxGNOTxF9FkO0UbYtJr+CtNHLZU/sdOTbGoJ+WRJQ1b\nhO8o2iqR8ONZ8BjCdriG5oqF/QlRgC4/JwACjAZNBMcNd+p2AoxLv7LqEShL83QP\nRW2j1MRSVQKBgH/azFKKTjfu0mGhQrV1MBY+YGp2jPnGkWBUBZHrxp1ZpH2ckrU1\nOs194fFVL2oBXsWNta1IGGIXiHnLQV7+KQ/26GsWzQUbg5nNCyfIHZnR086p9k2o\ncxM1474pF6PicojXTLsBtYfAIPp9KgCSuuYVFwdlLataOIv6Q0Iyd3fJAoGAW/XY\nUfo2chy4cT6+OjKjk3rhnwIpiYmzoplNAVrjJTOt9CYkoYw2TfnSP+vv4V2pI6IH\nFPVyIXXaj1d2Jv6OfUnBVKqMZBgtBunQ8GGPEbeIa+uPtuDYU4l2llV/uBQCKybs\n4ymEuzgSAhc0vmTCIMnejAD9csilwquDcBO2K+0CgYBAXYd/2yQ92ZvTeeoIXx3n\n99VTRaZnHOZsHD8Ar6d/41MEklCRcwGAx0mrLhlHwcEe/W2Llpztq+TdH1ZRj80g\nLMKZJR+JzSLpfplI0u95iiLgZF/0P2fss9S6PP9cu9zm8iHMYuKea2E6pMKjzDY0\nW5fJzEr32rxf+BEZLGfBfg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "botpenguin-bot1@appspot.gserviceaccount.com",
+  "client_id": "111502629657822956223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botpenguin-bot1%40appspot.gserviceaccount.com"
+}
